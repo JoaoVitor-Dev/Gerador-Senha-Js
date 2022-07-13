@@ -8,4 +8,4 @@
 
 
 #### Imagem
-![image](https://github.com/JoaoVitor-Dev/CRUD-Cadastro-de-Funcion-rios/blob/main/Github/01.PNG)
+![image](https://github.com/JoaoVitor-Dev/Gerador-Senha-Js/blob/main/Github/001.png)
